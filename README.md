@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I’m PAVAN KUMAR B S
+🎓 Student | 💻 Aspiring Developer | 🌱 Learning AI & Web Dev  
 
-<!--
-**BSP7/BSP7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Saarthi AI (career guidance app)
+- 🌱 Learning: Frontend (React), Backend (Java, REST APIs), Data Visualization
+- 📫 Reach me: [LinkedIn](your-link) | [Portfolio](your-link)
 
-Here are some ideas to get you started:
+## ⚡ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- 🚀 [Saarthi AI](link-to-repo) – Multilingual AI-powered career guidance platform
+- 📊 [Data Viz Portfolio](link-to-repo) – Tableau & Python visualizations
+- 🔧 [Java Collections](link-to-repo) – Advanced concepts with examples
