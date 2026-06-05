@@ -50,14 +50,8 @@ to detect and mitigate sophisticated cyber attacks.
 ### 🔐 PII Authenticator
 Blockchain-based identity verification system using Ethereum and cryptographic hashing to protect personal data.
 
-### 📰 Fake News Detection using AI & Blockchain
-AI-powered misinformation detection system with web scraping, NLP analysis, and blockchain-backed verification.
-
-### 🚨 Phishing Detection and Alert System
-Real-time phishing URL and email detection using Machine Learning and NLP-based classifiers.
-
-### 📱 SIM Swap Detection Alert System
-Security-focused system designed to identify suspicious SIM swap activity linked to messaging platforms.
+### 🔒 Zero-Knowledge Identity Verification System
+A privacy-preserving authentication platform using Zero-Knowledge Proofs (ZKP) that enables users to prove their identity without revealing sensitive personal information.
 
 ### 👁️ Computer Vision Motion Analysis
 Dense Optical Flow implementation using OpenCV and Farneback Algorithm for motion visualization.
