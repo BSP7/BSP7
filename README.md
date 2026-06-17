@@ -106,12 +106,12 @@ Dense Optical Flow implementation using OpenCV and Farneback Algorithm for motio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/bsp7?cardType=github&theme=github-dark&fontFamily=ABeeZee&preferLogin=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsp7&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsp7&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bsp7&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsp7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bsp7&theme=tokyonight" />
 </p>
 
 ---
