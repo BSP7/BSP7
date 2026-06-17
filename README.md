@@ -118,14 +118,6 @@ Dense Optical Flow implementation using OpenCV and Farneback Algorithm for motio
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=bsp7&theme=algolia&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
