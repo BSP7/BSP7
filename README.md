@@ -33,13 +33,14 @@ Passionate about building intelligent security solutions using Artificial Intell
 ## 🔭 Current Project
 
 ### AI-Powered Intelligent Firewall
+
 An advanced cybersecurity system that combines:
 
-- Graph Neural Networks (GNNs)
-- Temporal Learning Models
-- Explainable AI (XAI)
-- Real-Time Threat Detection
-- Automated Firewall Response
+* Graph Neural Networks (GNNs)
+* Temporal Learning Models
+* Explainable AI (XAI)
+* Real-Time Threat Detection
+* Automated Firewall Response
 
 to detect and mitigate sophisticated cyber attacks.
 
@@ -48,12 +49,15 @@ to detect and mitigate sophisticated cyber attacks.
 ## 🛠️ Featured Projects
 
 ### 🔐 PII Authenticator
+
 Blockchain-based identity verification system using Ethereum and cryptographic hashing to protect personal data.
 
 ### 🔒 Zero-Knowledge Identity Verification System
+
 A privacy-preserving authentication platform using Zero-Knowledge Proofs (ZKP) that enables users to prove their identity without revealing sensitive personal information.
 
 ### 👁️ Computer Vision Motion Analysis
+
 Dense Optical Flow implementation using OpenCV and Farneback Algorithm for motion visualization.
 
 ---
@@ -79,41 +83,56 @@ Dense Optical Flow implementation using OpenCV and Farneback Algorithm for motio
 
 ### Programming Languages
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript" />
 </p>
 
 ### Web Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,firebase" />
 </p>
 
 ### Cybersecurity & Cloud
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,kubernetes,git" />
 </p>
 
 ### AI / Machine Learning
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bsp7&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSP7&theme=tokyonight" />
 </p>
 
-<h2 align="center">💻 Languages Used</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSP7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BSP7&theme=tokyonight" />
+</p>
+
+---
+
+# 💻 Languages Used
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsp7&layout=compact&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bsp7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSP7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BSP7&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BSP7&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
